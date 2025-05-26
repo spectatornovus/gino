@@ -1,6 +1,6 @@
 # Gino
 
-Gino è un programma semplice e intuitivo per la gestione personale di una biblioteca. Permette di creare, salvare, modificare e cercare schede bibliografiche, con esportazione in formato JSON e HTML. È stato progettato per chi desidera tenere traccia dei propri libri in modo ordinato, con una GUI essenziale e chiara.
+Gino è un piccolo programma in Python per la gestione personale di una biblioteca. Permette di creare, salvare, modificare e cercare schede bibliografiche, con esportazione in formato JSON e HTML. È stato progettato per chi desidera tenere traccia dei propri libri in modo ordinato, con una GUI essenziale e chiara.
 
 ### Funzionalità
 
