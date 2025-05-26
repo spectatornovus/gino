@@ -20,7 +20,7 @@ Gino è un piccolo programma in Python per la gestione personale di una bibliote
 
 ### Licenza
 
-Gino è distribuito sotto [licenza GNU General Public License v3.0](licenza.md).
+Gino è distribuito sotto [licenza GNU General Public License v3.0](LICENSE.TXT).
 
 ### Autore
 
